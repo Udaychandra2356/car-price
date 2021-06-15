@@ -1,0 +1,15 @@
+body {
+  background-color: #aaf0d1;
+  /*background-color: #00ff7f;*/
+}
+h1.px-5 {
+  /*padding-top: 20px;*/
+  color: #004953;
+
+  /*background: -webkit-linear-gradient(#0093e9, #80d0c7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+}
+select.btn btn-secondary {
+  background-color: #0093e9;
+}
